@@ -2,7 +2,7 @@ cmake_minimum_required(VERSION 3.10.0)
 
 project(mat-json VERSION 0.2.0)
 
-# This option is only useful for Geode itself
+# This option is only useful for Sapphire itself
 if (DEFINED MAT_JSON_AS_INTERFACE AND MAT_JSON_AS_INTERFACE)
     add_library(mat-json INTERFACE)
 

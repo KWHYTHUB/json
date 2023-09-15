@@ -94,13 +94,13 @@ int main() {
 	{
 		auto obj = json::Value::from_str(R"(
 {
-    "geode": "@PROJECT_VERSION@",
-    "id": "geode.loader",
+    "sapphire": "@PROJECT_VERSION@",
+    "id": "sapphire.loader",
     "version": "@PROJECT_VERSION@@PROJECT_VERSION_SUFFIX@",
-    "name": "Geode",
-    "developer": "Geode Team",
-    "description": "The Geode mod loader",
-    "repository": "https://github.com/geode-sdk/geode",
+    "name": "Sapphire",
+    "developer": "Sapphire Team",
+    "description": "The Sapphire mod loader",
+    "repository": "https://github.com/KWHYTHUB/sapphire",
     "resources": {
         "fonts": {
             "mdFont": {

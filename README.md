@@ -1,6 +1,6 @@
 # MATjson
 
-json library i made quickly for geode. preserves insertion order for objects
+json library i made quickly for sapphire. preserves insertion order for objects
 
 - this was made to be easy to compile
 - numbers are internally stored as double
